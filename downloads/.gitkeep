@@ -1,0 +1,3 @@
+# downloads/.gitkeep
+# This file keeps the downloads directory tracked by Git.
+# Downloaded files are excluded via .gitignore.
